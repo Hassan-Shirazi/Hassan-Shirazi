@@ -3,7 +3,7 @@
     <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-eMES7lZvD4yVd3wtbx6Wu6jnLmoxPI.png&w=320&q=75" alt="Illustration of a person coding on a computer" width="300" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+<h1 align="center">Hi 👋, I'm Hassan Shirazi</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
