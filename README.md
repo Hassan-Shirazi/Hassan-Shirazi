@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Illustration of a person coding on a computer" width="400" />
+  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-OCOBC6DjtnQdnSysIzLVNNUcJ69u4a.png&w=1920&q=75" alt="Illustration of a person coding on a computer" width="300" />
+    <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-JLGCwuVRfvOMwVMpimP9wXFiu6Nw4x.png&w=320&q=75" alt="Illustration of a person coding on a computer" width="300" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=20C20E¢er=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
+
 
 <hr>
 
@@ -114,3 +116,7 @@ Here are a few projects I've worked on. Check them out on my Github & Live Previ
 
 
 <h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
+
+<div align="center">
+  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-pZrEJqcqFNCgEy1JvODehcnWL1wVzN.png&w=320&q=75" alt="Illustration of a person coding on a computer" width="250" />
+</div>
