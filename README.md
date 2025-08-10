@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=ffbe0bcenter=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -98,20 +98,20 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shirazi&layout=compact&theme=radical&langs_count=6)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shirazi&layout=compact&theme=gruvbox_light&langs_count=6)
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=gruvbox_light&hide_border=false&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=gruvbox_light&hide_border=false)
 
-<!-- Trophies below the strike line -->
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=gruvbox_light&no-frame=true&margin-w=15" alt="Trophies" />
 
 </div>
 
