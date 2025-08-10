@@ -88,7 +88,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/MHassanDeveloper"><img src="https://img.icons8.com/?size=100&id=12599&format=png" /></a>
+  <a href="github.com/Hassan-Shirazi"><img src="https://img.icons8.com/?size=100&id=12599&format=png" /></a>
   <a href="https://www.linkedin.com/in/hassan-shirazi-67559834a/"><img src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
   <a href="https://www.instagram.com/sheraziofficial0/"><img src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png" /></a>
   <a href="https://www.facebook.com/hassan.aslam.60964"><img src="https://img.icons8.com/?size=96&id=118497&format=png" /></a>
@@ -100,13 +100,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=radical&hide_border=false&count_private=true)
+<div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shirazi&layout=compact&theme=radical&langs_count=6)
 
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=radical&hide_border=false&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=radical&hide_border=false)
+
+<!-- Trophies below the strike line -->
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 
 </div>
 
