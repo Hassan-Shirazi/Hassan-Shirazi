@@ -83,6 +83,8 @@ Here are a few projects I've worked on. Check them out on my Github & Live Previ
 | 🔗 [**Smart Phones**](https://hassan-shirazi.github.io/Smart-Phones-Website/)      | 3D smart watch website with fully transition and animation |
 | 🔗 [**Fast Food**](https://hassan-shirazi.github.io/Fast-Food-Website/)      | 3D fast food website with html css and js  |
 | 🔗 [**Ai Explain Website**](https://hassan-shirazi.github.io/Ai-Explain-Website/)      | Ai Explain website with fully animation. |
+| 🔗 [**3D Watch Website**](https://hassan-shirazi.github.io/3D-Watch-Website/)      |3D watch website with html css js|
+
 
 
 </div>
