@@ -78,7 +78,11 @@ Here are a few projects I've worked on. Check them out on my Github & Live Previ
 | 🔗 [**Fruit & Vegetables Website**](https://hassan-shirazi.github.io/Fruit-Vegetables-Website/)      | Fruit and vegetables website with modern design.   |
 | 🔗 [**Gym Website**](https://hassan-shirazi.github.io/Gym-Website/)      | GYM website modern fully look animated.   |
 | 🔗 [**Car Website**](https://hassan-shirazi.github.io/Car-Website/)      | 3D Animated Car Website landing page.   |
-| 🔗 [**Watch Website**](https://hassan-shirazi.github.io/3D-Watch-Website/)      | 3D Watch Website with modern look.   |
+| 🔗 [**Travel Website**](https://hassan-shirazi.github.io/Travel-Website/)      | Animated Travel Website with html css js |
+| 🔗 [**Shoes Website**](https://hassan-shirazi.github.io/Shoes-Website/)      | 3D Shoes Website fully Animated |
+| 🔗 [**Smart Phones**](https://hassan-shirazi.github.io/Smart-Phones-Website/)      | 3D smart watch website with fully transition and animation |
+| 🔗 [**Fast Food**](https://hassan-shirazi.github.io/Fast-Food-Website/)      | 3D fast food website with html css and js  |
+| 🔗 [**Ai Explain Website**](https://hassan-shirazi.github.io/Ai-Explain-Website/)      | Ai Explain website with fully animation. |
 
 
 </div>
