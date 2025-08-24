@@ -78,7 +78,7 @@
 | [**Shoes Website**](https://hassan-shirazi.github.io/Shoes-Website/) | Animated 3D shoes showcase. |
 | [**Smart Phones**](https://hassan-shirazi.github.io/Smart-Phones-Website/) | Animated smart watch site. |
 | [**Fast Food**](https://hassan-shirazi.github.io/Fast-Food-Website/) | Animated fast food landing page. |
-| [**Ai Explain Website**](https://hassan-shirazi.github.io/Ai-Explain-Website/) | Animated AI info site. |
+| [**Blog_1 How Ai is changing the world**](https://hassan-shirazi.github.io/Blog_1-How-Ai-is-Changing-the-World./) | Animated AI info site. |
 | [**3D Watch Website**](https://hassan-shirazi.github.io/3D-Watch-Website/) | Animated 3D watch showcase. |
 
 </div>
