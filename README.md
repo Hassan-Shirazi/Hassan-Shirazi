@@ -43,6 +43,7 @@
   <img src="https://img.icons8.com/?size=96&id=W0YEwBDDfTeu&format=png" />
   <img src="https://img.icons8.com/?size=96&id=12814&format=png" />
   <img src="https://img.icons8.com/?size=96&id=qxQNCYAbz0tt&format=png" />
+  
 </p>
 
 ---
@@ -78,8 +79,11 @@
 | [**Shoes Website**](https://hassan-shirazi.github.io/Shoes-Website/) | Animated 3D shoes showcase. |
 | [**Smart Phones**](https://hassan-shirazi.github.io/Smart-Phones-Website/) | Animated smart watch site. |
 | [**Fast Food**](https://hassan-shirazi.github.io/Fast-Food-Website/) | Animated fast food landing page. |
-| [**Blog_1 How Ai is changing the world**](https://hassan-shirazi.github.io/Blog_1-How-Ai-is-Changing-the-World./) | Animated AI info site. |
 | [**3D Watch Website**](https://hassan-shirazi.github.io/3D-Watch-Website/) | Animated 3D watch showcase. |
+| [**Social Media Impacting**](https://hassan-shirazi.github.io/Blog_2-How-Social-Media-Impacting-on-Young-Generations/) | Blog on Social Media Impacting |
+| [**Education And Learning**](https://hassan-shirazi.github.io/Blog_3-Education-And-Learning/) | Blog on Education and Learning |
+| [**How Ai is changing the world**](https://hassan-shirazi.github.io/Blog_1-How-Ai-is-Changing-the-World./) | Blog on Ai |
+
 
 </div>
 
@@ -109,9 +113,6 @@
 ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=gruvbox_light&hide_border=false&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=gruvbox_light&hide_border=false)
-
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=gruvbox_light&no-frame=true&margin-w=15" alt="Trophies" />
 
 </div>
 
