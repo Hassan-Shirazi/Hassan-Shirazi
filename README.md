@@ -7,7 +7,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=ffbe0bcenter=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=ffbe0b&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<!-- 🌟 Portfolio Section 🌟 -->
+<div align="center">
+  <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐 Visit My Portfolio-ffbe0b?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Link"/>
   </a>
 </div>
 
@@ -43,7 +52,6 @@
   <img src="https://img.icons8.com/?size=96&id=W0YEwBDDfTeu&format=png" />
   <img src="https://img.icons8.com/?size=96&id=12814&format=png" />
   <img src="https://img.icons8.com/?size=96&id=qxQNCYAbz0tt&format=png" />
-  
 </p>
 
 ---
@@ -57,38 +65,6 @@
 
 ---
 
-## 💼 My Projects
-
-<div align="center">
-
-| Project Name | Description |
-|--------------|-------------|
-| [**Tic Tac Toe**](https://hassan-shirazi.github.io/Tic-Tac-Toe-Game/) | Play against a robot. |
-| [**Rock Paper Scissors**](https://hassan-shirazi.github.io/Rock-Paper-Scissors-Game/) | Fun game with robot opponent. |
-| [**Memory Card Game**](https://hassan-shirazi.github.io/Memory-Card-Game/) | Emoji-based memory challenge. |
-| [**Calculator App**](https://hassan-shirazi.github.io/Calculator-App/) | Web calculator with full operators. |
-| [**Todo App list**](https://hassan-shirazi.github.io/To-do-App-List/) | Manage and edit tasks. |
-| [**Real Time Clock**](https://hassan-shirazi.github.io/Real-Time-Clock/) | Circular real-time clock. |
-| [**Text to Speech**](https://hassan-shirazi.github.io/Text-To-Voice-/) | Type and hear your text. |
-| [**Furniture Website**](https://hassan-shirazi.github.io/Furniture-Website/) | Stylish furniture site. |
-| [**Clothes Website**](https://hassan-shirazi.github.io/Clothes-Website/) | E-commerce clothing store. |
-| [**Fruit & Vegetables Website**](https://hassan-shirazi.github.io/Fruit-Vegetables-Website/) | Fresh produce store. |
-| [**Gym Website**](https://hassan-shirazi.github.io/Gym-Website/) | Animated modern gym site. |
-| [**Car Website**](https://hassan-shirazi.github.io/Car-Website/) | 3D animated car landing page. |
-| [**Travel Website**](https://hassan-shirazi.github.io/Travel-Website/) | Animated travel agency site. |
-| [**Shoes Website**](https://hassan-shirazi.github.io/Shoes-Website/) | Animated 3D shoes showcase. |
-| [**Smart Phones**](https://hassan-shirazi.github.io/Smart-Phones-Website/) | Animated smart watch site. |
-| [**Fast Food**](https://hassan-shirazi.github.io/Fast-Food-Website/) | Animated fast food landing page. |
-| [**3D Watch Website**](https://hassan-shirazi.github.io/3D-Watch-Website/) | Animated 3D watch showcase. |
-| [**Social Media Impacting**](https://hassan-shirazi.github.io/Blog_2-How-Social-Media-Impacting-on-Young-Generations/) | Blog on Social Media Impacting |
-| [**Education And Learning**](https://hassan-shirazi.github.io/Blog_3-Education-And-Learning/) | Blog on Education and Learning |
-| [**How Ai is changing the world**](https://hassan-shirazi.github.io/Blog_1-How-Ai-is-Changing-the-World./) | Blog on Ai |
-
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -99,8 +75,6 @@
   <a href="https://tiktok.com/@hassanaslam42"><img src="https://img.icons8.com/?size=100&id=118638&format=png" /></a>
   <a href="mailto:mhassansherazi152@gmail.com"><img src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" /></a>
 </p>
-
----
 
 ---
 
