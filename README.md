@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=ffbe0b&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Exploring+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,12 +16,11 @@
 <!-- 🌟 Portfolio Section 🌟 -->
 <div align="center">
   <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐 Visit My Portfolio-ffbe0b?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Link"/>
+    <img src="https://img.shields.io/badge/-🌐 Visit My Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link"/>
   </a>
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 I’m a **First-Year Student** currently studying at **Aptech**.
