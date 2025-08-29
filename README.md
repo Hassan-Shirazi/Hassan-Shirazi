@@ -16,7 +16,7 @@
 <!-- 🌟 Portfolio Section 🌟 -->
 <div align="center">
   <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐 Visit My Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link"/>
+    <img width = "500px" src="https://img.shields.io/badge/-🌐 Visit My Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link"/>
   </a>
 </div>
 
