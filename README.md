@@ -57,9 +57,9 @@
   <img width ="65px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
   <img width ="90px" src="https://i.ibb.co/FbsGK7rg/12.png" />
   <img width = "70px" src="https://img.icons8.com/?size=96&id=81831&format=png" />
-  <img width ="80px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
-  <img width ="90px" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" />
-  <img width ="80px" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" />
+  <img width ="70px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+  <img width ="70px" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" />
+  <img width ="70px" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" />
   
   <img width ="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
