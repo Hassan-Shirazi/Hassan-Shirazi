@@ -33,24 +33,41 @@
 ## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=96&id=20909&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=4PiNHtUJVbLs&format=png" />
-  <img width="85px" src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=108784&format=png" />
-  <img src="https://img.icons8.com/?size=100&id=40253&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=XNQU0Xcm2I9s&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=lRjcvhvtR81o&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=13664&format=png" />
-  <img width="95px" src="https://img.icons8.com/?size=160&id=6or30FVdPylJ&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=20906&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=W0YEwBDDfTeu&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=12814&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=qxQNCYAbz0tt&format=png" />
+  <img width = "60px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
+  <img width = "60px" src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" />
+  <img width = "70px" src="https://img.icons8.com/?size=96&id=108784&format=png" />
+  <img width = "70px" src="https://img.icons8.com/?size=96&id=4PiNHtUJVbLs&format=png" />
+  <img width = "70px" src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" />
+  
+  <img width = "65px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
+  <img width = "70px" src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" />
+  <img width = "73px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
+  <img width = "60px"src = "https://i.ibb.co/NgrsdPwQ/22.png" " />
+  <img width = "70px" src="https://img.icons8.com/?size=96&id=13664&format=png" />
+  <img width="65px" src="https://img.icons8.com/?size=160&id=6or30FVdPylJ&format=png" />
+  <img width ="70px" src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" />
+  <img width = "75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
+  <img width ="70px" src="https://img.icons8.com/?size=96&id=20906&format=png" />
+  <img width ="70px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
+  <img width ="70px" src="https://img.icons8.com/?size=96&id=W0YEwBDDfTeu&format=png" />
+  <img width ="70px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
+  <img width ="70px" src="https://cdn-icons-png.flaticon.com/128/4380/4380600.png" />
+  <img width ="70px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" />
+  <img width ="70px" src="https://www.svgrepo.com/show/452054/linux.svg" />
+  <img width ="65px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
+  <img width ="90px" src="https://i.ibb.co/FbsGK7rg/12.png" />
+  <img width = "70px" src="https://img.icons8.com/?size=96&id=81831&format=png" />
+  <img width ="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img width ="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
 </p>
 
 ---
