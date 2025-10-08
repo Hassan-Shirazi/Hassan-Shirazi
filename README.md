@@ -105,13 +105,36 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shirazi&layout=compact&theme=gruvbox_light&langs_count=6)
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=gruvbox_light&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shirazi&layout=compact&theme=vision-friendly-dark&langs_count=6" width="32%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=gruvbox_light&hide_border=false)
 
+  <img  width="32%" src="https://github-contributor-stats.vercel.app/api?username=Hassan-Shirazi&limit=5&theme=dark&bg_color=000000&text_color=FFD700&title_color=FFA500&border_color=FFFFFF&combine_all_yearly_contributions=true" />
+
+
+
+
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=vision-friendly-dark&hide_border=false&count_private=true" width="42.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=vision-friendly-dark&hide_border=false" width="45%" />
 </div>
+<h3 align="center">🧠 Expert In</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,php,laravel,python,django&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Shirazi&theme=github-compact&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
 
 <div align="center">
 
@@ -119,6 +142,8 @@
 
 
 </div>
+
+
 ---
 
 <h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
