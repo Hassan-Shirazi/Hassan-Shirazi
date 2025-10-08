@@ -113,6 +113,12 @@
 
 </div>
 
+<div align="center">
+
+![snake gif](https://github.com/Hassan-Shirazi/Hassan-Shirazi/blob/output/github-snake-dark.svg)
+
+
+</div>
 ---
 
 <h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
