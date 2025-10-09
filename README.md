@@ -59,8 +59,6 @@
   <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" /> 
   <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
   <img width ="60px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
-  
-  
   <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
   <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
   <img width ="55px" src="https://icon.icepanel.io/Technology/svg/PhpStorm.svg" />
