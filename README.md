@@ -115,7 +115,9 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Shirazi&show_icons=true&theme=vision-friendly-dark&hide_border=false&count_private=true" width="42.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Shirazi&theme=vision-friendly-dark&hide_border=false" width="45%" />
+<img src="https://streak-stats.demolab.com?user=Hassan-Shirazi&theme=vision-friendly-dark&hide_border=false" width="45%" />
+
+
 </div>
 <h3 align="center">🧠 Expert In</h3>
 
