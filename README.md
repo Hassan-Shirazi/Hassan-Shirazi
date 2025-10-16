@@ -49,7 +49,7 @@
   <img width ="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
   <img width = "55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
   <img width = "75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
-  <img width ="70px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" />
+  <img width ="55px" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" />
   <img width = "65px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
   <img width ="58px" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" />
   <img width ="55px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
