@@ -40,7 +40,7 @@
   <img width = "55px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
   <img width = "60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"/>
   <img width = "55px" src="https://icon.icepanel.io/Technology/svg/React.svg" />
-  <img width = "55px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+
   <img width ="65px" src="https://i.ibb.co/FbsGK7rg/12.png" />
   <img width ="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
   <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
@@ -62,7 +62,7 @@
   <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
   <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
   <img width ="55px" src="https://icon.icepanel.io/Technology/svg/PhpStorm.svg" />
-  <img width ="60px" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+  
   <img width ="55px" src= "https://icon.icepanel.io/Technology/svg/Canva.svg" />
   <img width ="50px" src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
   
