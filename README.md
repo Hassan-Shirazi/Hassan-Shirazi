@@ -31,51 +31,44 @@
 ---
 
 ## 🛠️ My Skills
-
+---
+### 🎨 Frontend
 <p align="center">
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img width = "55px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
-  <img width = "60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"/>
-  <img width = "55px" src="https://icon.icepanel.io/Technology/svg/React.svg" />
-
-  <img width ="65px" src="https://i.ibb.co/FbsGK7rg/12.png" />
-  <img width ="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" />
-  <img width ="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
-  <img width = "55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-  <img width = "75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" />
-  <img width = "65px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
-  <img width ="58px" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" />
-  <img width ="55px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
-  <img width = "60px" src="https://img.icons8.com/?size=96&id=13664&format=png" />
-  <img width ="60px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
-  <img width ="55px" src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" />
-  <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" /> 
-  <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
-  <img width ="60px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
-  <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/svg/PhpStorm.svg" />
-  
-  <img width ="55px" src= "https://icon.icepanel.io/Technology/svg/Canva.svg" />
-  <img width ="50px" src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
-  
-  
-  
-  
-  
-  
-  
+  <img width="50px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
+  <img width="50px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
+  <img width="50px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
+  <img width="60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+  <img width="65px" src="https://i.ibb.co/FbsGK7rg/12.png" />
   
 </p>
 
 ---
+
+### ⚙️ Backend
+<p align="center">
+  <img width="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
+  <img width="65px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
+  <img width="58px" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" />
+  <img width="55px" src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" />
+  
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+<p align="center">
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+  <img width="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
+  <img width="75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
+  <img width="60px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
+  <img width="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
+  <img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
+</p>
+
+---
+
 
 ## 📚 Currently Learning
 
