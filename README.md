@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-OCOBC6DjtnQdnSysIzLVNNUcJ69u4a.png&w=1000&q=75" alt="Illustration of a person coding on a computer" width="300" />
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-eMES7lZvD4yVd3wtbx6Wu6jnLmoxPI.png&w=320&q=75" alt="Illustration of a person coding on a computer" width="300" />
+ 
 </div>
 
 <h1 align="center">Hi 👋, I'm Hassan Shirazi</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Exploring+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Exploring+Ai+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
   <img width="50px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
   <img width="55px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
   <img width="60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
-  <img width="65px" src="https://i.ibb.co/FbsGK7rg/12.png" />
+  <img width="60px" src="https://i.ibb.co/FbsGK7rg/12.png" />
   
 </p>
 
@@ -47,6 +47,7 @@
 
 ### ⚙️ Backend
 <p align="center">
+  <img width="75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
   <img width="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
   <img width="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
   <img width="65px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
@@ -61,7 +62,6 @@
 <p align="center">
   <img width="55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
   <img width="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
-  <img width="75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
   <img width="60px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
   <img width="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
   <img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
