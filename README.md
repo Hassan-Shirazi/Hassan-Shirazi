@@ -36,9 +36,9 @@
   <img width="50px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
   <img width="50px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
   <img width="50px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img width="55px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
-  <img width="60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
-  <img width="60px" src="https://i.ibb.co/FbsGK7rg/12.png" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+  <img width="50px" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" />
+  <img width="50px" src="https://i.ibb.co/FbsGK7rg/12.png" />
   
 </p>
 
@@ -46,12 +46,12 @@
 
 ###  Backend
 <p align="center">
-  <img width="75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
-  <img width="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
-  <img width="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
-  <img width="65px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
-  <img width="58px" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" />
+  <img width="50px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" />
   <img width="55px" src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
+  <img width="60px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/svg/XML.svg" />
   
 </p>
 
@@ -59,11 +59,13 @@
 
 ###  Tools & Technologies
 <p align="center">
+   <img width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
   <img width="55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-  <img width="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
-  <img width="60px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
-  <img width="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
-  <img width="45px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
+  <img width="55px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" />
+  <img width="55px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
+  <img width="55px" src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" />
+  
+  
 </p>
 
 ---
@@ -71,12 +73,11 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="github.com/MHassan-Shirazi"><img src="https://img.icons8.com/?size=100&id=12599&format=png" /></a>
-  <a href="https://www.linkedin.com/in/hassan-shirazi-7341b1373/"><img src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
-  <a href="https://www.instagram.com/sheraziofficial0/"><img src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png" /></a>
-  <a href="https://www.facebook.com/hassan.aslam.60964"><img src="https://img.icons8.com/?size=96&id=118497&format=png" /></a>
-  <a href="https://tiktok.com/@hassanaslam42"><img src="https://img.icons8.com/?size=100&id=118638&format=png" /></a>
-  <a title = "mhassansherazi152@gmail.com" href="mailto:mhassansherazi152@gmail.com"><img src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" /></a>
+  <a href="https://github.com/MHassan-Shirazi"><img width = "70px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" /></a>
+  <a href="https://www.linkedin.com/in/hassan-shirazi-7341b1373/"><img width = "70px" src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
+  <a href="https://www.instagram.com/sheraziofficial0/"><img width = "70px" src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png" /></a>
+  <a href="https://www.facebook.com/hassan.aslam.60964"><img width = "70px" src="https://img.icons8.com/?size=96&id=118497&format=png" /></a>
+  <a title = "mhassansherazi152@gmail.com" href="mailto:mhassansherazi152@gmail.com"><img width = "70px" src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" /></a>
 </p>
 
 ---
@@ -100,6 +101,18 @@
 <img src="https://streak-stats.demolab.com/?user=Hassan-Shirazi&theme=vision-friendly-dark&hide_border=false" width="45%" />
 
 
+
+
+
+
+
+<div align="center">
+
+![snake gif](https://github.com/Hassan-Shirazi/Hassan-Shirazi/blob/output/github-snake-dark.svg)
+
+
+</div>
+
 </div>
 <p align="center">
   <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Shirazi&theme=github-compact&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
@@ -111,15 +124,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hassan-Shirazi&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
-
-<div align="center">
-
-![snake gif](https://github.com/Hassan-Shirazi/Hassan-Shirazi/blob/output/github-snake-dark.svg)
-
-
-</div>
-
-
----
 
 <h3 align="center"> Thanks for visiting my profile! </h3>
